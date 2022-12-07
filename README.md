@@ -6,8 +6,8 @@
 </div>
 
 <div align="center" width="100%">
-  <img width="50%" height="320px" src="https://github-readme-stats.vercel.app/api?username=ThiagoMaurat&show_icons=true&theme=dark" />
-  <img width="50%" height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMaurat&layout=compact&theme=dark"/>
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ThiagoMaurat&show_icons=true&theme=dark" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMaurat&layout=compact&theme=dark"/>
 </div>
 
 <div align="center" valign="top"><br>
