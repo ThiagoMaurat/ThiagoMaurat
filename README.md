@@ -5,8 +5,9 @@
   
 </div>
 
-<div align="center">
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?ThiagoMaurat" frameborder="0"></iframe>
+<div align="center" width="100%">
+  <img width="50%" height="320px" src="https://github-readme-stats.vercel.app/api?username=ThiagoMaurat&show_icons=true&theme=dark" />
+  <img width="50%" height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMaurat&layout=compact&theme=dark"/>
 </div>
 
 <div align="center" valign="top"><br>
@@ -25,7 +26,6 @@
 
 <div align="center">
   <a href="https://www.instagram.com/thiago_mmd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
   <a href="https://www.linkedin.com/in/thiago-maurat-477a041b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:thiago.maurat5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
