@@ -6,12 +6,11 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Next" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
+  <img align="center" alt="nestjs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
 </div><br>
 
